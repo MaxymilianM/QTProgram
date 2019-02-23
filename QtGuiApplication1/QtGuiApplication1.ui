@@ -75,12 +75,12 @@
      <rect>
       <x>60</x>
       <y>90</y>
-      <width>171</width>
+      <width>281</width>
       <height>16</height>
      </rect>
     </property>
     <property name="text">
-     <string>Input one or more lines to search</string>
+     <string>Input one or more lines to search (separated by ENTER)</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
